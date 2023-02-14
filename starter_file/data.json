@@ -1,0 +1,1 @@
+{"Inputs": {"data": [{"age": 65, "anaemia": 1, "creatinine_phosphokinase": 148, "diabetes": 1, "ejection_fraction": 20, "high_blood_pressure": 0, "platelets": 162000, "serum_creatinine": 1.9, "serum_sodium": 136, "sex": 1, "smoking": 1, "time": 30}]}, "GlobalParameters": {"method": "predict"}}
