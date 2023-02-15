@@ -50,9 +50,9 @@ The best model has the hyperparameters C=2.5568773701545626 and max_iter=120. Th
 I deployed the best model from automl Run as a Webservice with enabled authentication. To query an endpoint with sample input, we need first to get a scoring uri and the primary key from the endpoint workspace section. Then, we need to define some sample data in the right form (here swagger can help us). This data is converted to a JSON string and a request ist made. 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate: https://youtu.be/2lS0v1ZM3Tg
 - A working model
-- Demo of the deployed  model
+- Demo of the deployed model
 - Demo of a sample request sent to the endpoint and its response
 
 ## Standout Suggestions
